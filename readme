@@ -1,7 +1,0 @@
-Hi All , welcome to my directory
-echo "# Temp" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/surwpri/Temp.git
-git push -u origin master
