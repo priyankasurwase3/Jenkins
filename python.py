@@ -1,6 +1,0 @@
-echo "Helllozz"
-
-echo "%date%"
-
-
-
