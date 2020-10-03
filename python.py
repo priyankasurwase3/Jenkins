@@ -1,0 +1,6 @@
+echo "Helo"
+
+echo "%date%"
+
+
+
